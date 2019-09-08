@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ceevaifeis.devicelolli.com/sitemap.xml
